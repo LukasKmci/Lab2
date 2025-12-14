@@ -1,0 +1,17 @@
+# Requirements for Lab2 EKG Analysis
+# MainCode2.ipynb dependencies
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Plotting
+matplotlib>=3.7.0
+
+# Jupyter (optional, for running notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For better performance
+# openpyxl>=3.1.0  # If you need to read Excel files (Task 7 class data)
